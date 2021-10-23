@@ -1,0 +1,25 @@
+{
+    "name": "hud",
+    "id": "mean.hud.app",
+    "version": "0.1",
+    "description": "The HUD for meanOs.",
+    "main": "index.html",
+    "category": "System & Tools",
+    "multi_window" : false,
+    "author": "meanOs Team",
+    "window": {
+        "show": true,
+        "transparent": true,
+        "icon": "icon.svg",
+        "frame": false,
+        "width": 1260,
+        "height": 680,
+        "min_width": 260,
+        "min_height": 580
+    },
+    "settings": {
+        "build-type": "direct-build",
+        "comment": "Do not modify this file unless you know what you are doing. DevKit will modify it as needed for you.",
+        "comment2": "You should not keep this document open while DevKit is using it. You maight end up with an outdated file."
+    }
+}

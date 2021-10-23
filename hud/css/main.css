@@ -1,0 +1,21 @@
+.progress {
+    height: calc(100% - 20px);
+    margin-top: 10px;
+    background-color: transparent;
+    width: calc(100% - 60px);
+    display: inline-block;
+}
+
+.progress-bar {
+    background-color: #ffffff66;
+}
+
+.subIcon {
+    font-size: 50px;
+    color: #fffc;
+}
+
+.subIcon > span {
+    position: relative;
+    top: -8px;
+}
